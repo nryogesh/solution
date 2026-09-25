@@ -10,4 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nryogesh/leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
