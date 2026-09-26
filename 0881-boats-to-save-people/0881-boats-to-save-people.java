@@ -7,13 +7,11 @@ class Solution {
         
         while(k<=j){
                 if(people[k]+people[j]<=limit){
-                c++;
                 k++;
                 j--;}
                 else
-                if(people[k]<=limit){
                 j--;
-                c++;}
+                c++;
         }       
     return c;
     }
