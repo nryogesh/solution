@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/nryogesh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nryogesh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
