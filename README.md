@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nryogesh/leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nryogesh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nryogesh/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nryogesh/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nryogesh/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nryogesh/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nryogesh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nryogesh/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nryogesh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nryogesh/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -82,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
