@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nryogesh/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nryogesh/leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nryogesh/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nryogesh/leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/nryogesh/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nryogesh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nryogesh/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nryogesh/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -126,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nryogesh/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
