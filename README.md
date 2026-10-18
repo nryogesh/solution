@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nryogesh/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/nryogesh/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nryogesh/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nryogesh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nryogesh/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/nryogesh/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nryogesh/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nryogesh/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/nryogesh/leetcode/tree/master/3467-transform-array-by-parity) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
