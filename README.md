@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nryogesh/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nryogesh/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nryogesh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
