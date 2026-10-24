@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nryogesh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nryogesh/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nryogesh/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nryogesh/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
