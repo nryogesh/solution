@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nryogesh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nryogesh/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2525-categorize-box-according-to-criteria](https://github.com/nryogesh/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nryogesh/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
