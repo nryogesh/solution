@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nryogesh/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nryogesh/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nryogesh/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nryogesh/leetcode/tree/master/0229-majority-element-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nryogesh/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nryogesh/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nryogesh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nryogesh/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nryogesh/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nryogesh/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nryogesh/leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/nryogesh/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nryogesh/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -203,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nryogesh/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
