@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nryogesh/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/nryogesh/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/nryogesh/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nryogesh/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nryogesh/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/nryogesh/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/nryogesh/leetcode/tree/master/0645-set-mismatch) |
 | [2404-most-frequent-even-element](https://github.com/nryogesh/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/nryogesh/leetcode/tree/master/2540-minimum-common-value) |
