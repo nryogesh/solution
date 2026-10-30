@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nryogesh/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nryogesh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nryogesh/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2525-categorize-box-according-to-criteria](https://github.com/nryogesh/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/nryogesh/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
