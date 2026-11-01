@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nryogesh/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nryogesh/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nryogesh/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/nryogesh/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
