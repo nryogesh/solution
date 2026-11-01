@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nryogesh/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nryogesh/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nryogesh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nryogesh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nryogesh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/nryogesh/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -178,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/nryogesh/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/nryogesh/leetcode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nryogesh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2404-most-frequent-even-element](https://github.com/nryogesh/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/nryogesh/leetcode/tree/master/2540-minimum-common-value) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nryogesh/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nryogesh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
