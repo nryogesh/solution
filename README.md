@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nryogesh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/nryogesh/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/nryogesh/leetcode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/nryogesh/leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nryogesh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2404-most-frequent-even-element](https://github.com/nryogesh/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/nryogesh/leetcode/tree/master/2540-minimum-common-value) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nryogesh/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
+| [0771-jewels-and-stones](https://github.com/nryogesh/leetcode/tree/master/0771-jewels-and-stones) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
