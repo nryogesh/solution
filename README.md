@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nryogesh/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/nryogesh/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/nryogesh/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nryogesh/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nryogesh/leetcode/tree/master/0268-missing-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/nryogesh/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0389-find-the-difference](https://github.com/nryogesh/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nryogesh/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
