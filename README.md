@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nryogesh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
+| [1323-maximum-69-number](https://github.com/nryogesh/leetcode/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nryogesh/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2525-categorize-box-according-to-criteria](https://github.com/nryogesh/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nryogesh/leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nryogesh/leetcode/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/nryogesh/leetcode/tree/master/1323-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
