@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nryogesh/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nryogesh/leetcode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/nryogesh/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/nryogesh/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nryogesh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/nryogesh/leetcode/tree/master/0260-single-number-iii) |
