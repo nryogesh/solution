@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nryogesh/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nryogesh/leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nryogesh/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/nryogesh/leetcode/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/nryogesh/leetcode/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nryogesh/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2525-categorize-box-according-to-criteria](https://github.com/nryogesh/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -265,4 +266,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nryogesh/leetcode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/nryogesh/leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nryogesh/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nryogesh/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nryogesh/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
