@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/nryogesh/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/nryogesh/leetcode/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/nryogesh/leetcode/tree/master/1323-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/nryogesh/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nryogesh/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2525-categorize-box-according-to-criteria](https://github.com/nryogesh/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nryogesh/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
