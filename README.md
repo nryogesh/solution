@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nryogesh/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nryogesh/leetcode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/nryogesh/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nryogesh/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nryogesh/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nryogesh/leetcode/tree/master/0137-single-number-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nryogesh/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/nryogesh/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nryogesh/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nryogesh/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/nryogesh/leetcode/tree/master/0168-excel-sheet-column-title) |
