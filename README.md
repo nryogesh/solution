@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/nryogesh/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nryogesh/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/nryogesh/leetcode/tree/master/2540-minimum-common-value) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/nryogesh/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nryogesh/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nryogesh/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3467-transform-array-by-parity](https://github.com/nryogesh/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nryogesh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nryogesh/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/nryogesh/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
